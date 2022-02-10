@@ -1,0 +1,4 @@
+{
+  "JWTPRIVATEKEY": "oddJobsPrivateKey",
+  "DB": "mongodb://localhost/oddjobs"
+}
